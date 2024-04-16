@@ -1,0 +1,14 @@
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+H:\MateriaTec\LogP\Primeira etapa\menuCavalieri.2D2.65\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
