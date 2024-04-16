@@ -43,5 +43,11 @@ namespace WindowsFormsApp1
             Form5 objTela = new Form5();
             objTela.ShowDialog();
         }
+
+        private void ex13pag39ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form6 objTela = new Form6();
+            objTela.ShowDialog();
+        }
     }
 }

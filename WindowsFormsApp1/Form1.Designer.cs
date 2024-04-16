@@ -34,6 +34,7 @@
             this.ex06PagToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.eToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ex15pag16ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ex13pag39ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,7 +54,8 @@
             this.ex05pag38ToolStripMenuItem,
             this.ex06PagToolStripMenuItem,
             this.eToolStripMenuItem,
-            this.ex15pag16ToolStripMenuItem});
+            this.ex15pag16ToolStripMenuItem,
+            this.ex13pag39ToolStripMenuItem});
             this.selecioneUmExercicioToolStripMenuItem.Name = "selecioneUmExercicioToolStripMenuItem";
             this.selecioneUmExercicioToolStripMenuItem.Size = new System.Drawing.Size(139, 20);
             this.selecioneUmExercicioToolStripMenuItem.Text = "Selecione um exercicio";
@@ -61,14 +63,14 @@
             // ex05pag38ToolStripMenuItem
             // 
             this.ex05pag38ToolStripMenuItem.Name = "ex05pag38ToolStripMenuItem";
-            this.ex05pag38ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ex05pag38ToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
             this.ex05pag38ToolStripMenuItem.Text = "ex05pag38";
             this.ex05pag38ToolStripMenuItem.Click += new System.EventHandler(this.ex05pag38ToolStripMenuItem_Click);
             // 
             // ex06PagToolStripMenuItem
             // 
             this.ex06PagToolStripMenuItem.Name = "ex06PagToolStripMenuItem";
-            this.ex06PagToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ex06PagToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
             this.ex06PagToolStripMenuItem.Text = "ex06Pag38";
             this.ex06PagToolStripMenuItem.Click += new System.EventHandler(this.ex06PagToolStripMenuItem_Click);
             // 
@@ -85,6 +87,13 @@
             this.ex15pag16ToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
             this.ex15pag16ToolStripMenuItem.Text = "ex15pag16";
             this.ex15pag16ToolStripMenuItem.Click += new System.EventHandler(this.ex15pag16ToolStripMenuItem_Click);
+            // 
+            // ex13pag39ToolStripMenuItem
+            // 
+            this.ex13pag39ToolStripMenuItem.Name = "ex13pag39ToolStripMenuItem";
+            this.ex13pag39ToolStripMenuItem.Size = new System.Drawing.Size(205, 22);
+            this.ex13pag39ToolStripMenuItem.Text = "ex13pag39";
+            this.ex13pag39ToolStripMenuItem.Click += new System.EventHandler(this.ex13pag39ToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -110,6 +119,7 @@
         private System.Windows.Forms.ToolStripMenuItem ex06PagToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem eToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ex15pag16ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ex13pag39ToolStripMenuItem;
     }
 }
 
